@@ -1,2 +1,3 @@
 # artpy
-Aligned Rank Transform for Nonparametric Factorial ANOVAs for python
+
+Aligned Rank Transform for Nonparametric Factorial ANOVAs for python.
